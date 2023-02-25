@@ -1,0 +1,31 @@
+/* The text in green contains comments to help you. */ 
+
+body {
+  /* You can edit the background color here: */
+  background: lightblue;
+  /* CSS doesn't know all color names, but it knows a lot of them.
+  Try one or more of these:
+  - orange
+  - palegoldenrod
+  - pink
+  - firebrick */
+}
+img {
+  
+  width: 90%;
+  
+}
+
+div {
+ 
+  padding: 1em;
+}
+
+code {
+  font-weight: bold;
+}
+
+
+.centered {
+  text-align: center;
+}
